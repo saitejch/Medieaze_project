@@ -45,7 +45,29 @@ A web-based healthcare application that provides real-time medicine price compar
 
 ### Other Tools:
 - **JWT** – Secure user authentication.
-- **Firebase/SendGrid** – For sending SMS/Email notifications.
+- **Firebase/SendGrid** – For sending SMS/Email notifications
 
 ---
+###**Output**:
+![Screenshot (153)](https://github.com/user-attachments/assets/2ad4ed1c-c2b7-473a-b399-e03ca34a3973)
+
+![Screenshot (145)](https://github.com/user-attachments/assets/f0daa7fc-c719-4f89-9fe2-9aebc69c746a)
+
+![Screenshot (146)](https://github.com/user-attachments/assets/9443d122-7f55-42aa-883d-e3fccde83b7f)
+
+![Screenshot (147)](https://github.com/user-attachments/assets/e889d3f0-bbc4-49b3-a982-18a0786be897)
+
+![Screenshot (148)](https://github.com/user-attachments/assets/4cf32e2a-e520-4682-9cc2-3f88173d336e)
+
+![Screenshot (149)](https://github.com/user-attachments/assets/b91862f9-5fee-4676-875e-c822dde59641)
+
+![Screenshot (150)](https://github.com/user-attachments/assets/f2996872-257a-48d7-869a-3d6ac24a53a0)
+
+
+
+
+
+
+
+
 
